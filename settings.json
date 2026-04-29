@@ -8,7 +8,7 @@
   "server": {
     "ip": "mirror_smp.aternos.me",
     "port": 31573,
-    "version": "1.21.5"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
